@@ -1,10 +1,10 @@
 +++
-author = "Hugo Authors"
-title = "Emoji Support"
+author = "Evan Drake"
+title = "Hybridpanda Twitch Compilation"
 date = "2019-03-05"
-description = "Guide to emoji usage in Hugo"
+description = "Twitch Clip Compilation"
 tags = [
-    "emoji",
+    "Gaming",
 ]
 archives = ["2019/03"]
 +++
