@@ -3,6 +3,7 @@ author = "Evan Drake"
 title = "Hybridpanda Twitch Compilation"
 date = "2019-04-14"
 description = "Twitch Clip Compilation"
+image = "https://i.ytimg.com/vi/cvZb0aNwdMo/maxresdefault.jpg"
 tags = [
     "Gaming",
 ]
