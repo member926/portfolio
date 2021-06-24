@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
-title = "Evan's fat fart"
-author = "wamo"
+title = "Evan Drake's Editing Portfolio"
+author = "Evan Drake"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
