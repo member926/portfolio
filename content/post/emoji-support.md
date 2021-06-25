@@ -10,12 +10,15 @@ tags = [
 archives = ["2019/04"]
 +++
 
+{{< youtube cvZb0aNwdMo >}}
+
+
 This video was created for the Youtube Channel HybridPanda using Twitch clips from their Twitch Channel. 
 <!--more-->
 Some things to showcase here are my ability to compile usable footage, transitions, compatable music and comedic timing.
 
 
-{{< youtube cvZb0aNwdMo >}}
+
 
 <p><span class="nowrap"><span class="emojify">🙈</span> <code>:see_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙉</span> <code>:hear_no_evil:</code></span>  <span class="nowrap"><span class="emojify">🙊</span> <code>:speak_no_evil:</code></span></p>
 <br>
