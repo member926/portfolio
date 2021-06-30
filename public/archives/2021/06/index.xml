@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2021/06 on Evan Drake&#39;s Editing Portfolio</title>
+    <link>https://example.com/archives/2021/06/</link>
+    <description>Recent content in 2021/06 on Evan Drake&#39;s Editing Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://example.com/archives/2021/06/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sires Eyewear Advertisment</title>
+      <link>https://example.com/post/sireseyewear/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/sireseyewear/</guid>
+      <description>&lt;p&gt;A short video created for Sires Eyewear&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
