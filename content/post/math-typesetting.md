@@ -1,13 +1,13 @@
 ---
-author: Hugo Authors
-title: Math Typesetting
-date: 2019-03-08
-archives: ["2019/03"]
-description: A brief guide to setup KaTeX
+author: Evan Drake
+title: Sires Eyewear Advertisment
+date: 2021-06-06
+archives: ["2021/06"]
+description: A short video created for Sires Eyewear 
 math: true
 ---
 
-Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.
+A short video created for Sires Eyewear
 <!--more-->
 
 In this example we will be using [KaTeX](https://katex.org/)

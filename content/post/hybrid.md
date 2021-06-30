@@ -5,17 +5,18 @@ date = "2019-04-14"
 description = "Twitch Clip Compilation"
 image = "https://i.ytimg.com/vi/cvZb0aNwdMo/maxresdefault.jpg"
 tags = [
-    "Gaming",
+    "Gaming", "Twitch"
 ]
 archives = ["2019/04"]
 +++
-Video for a Youtube channel with 500k subscribers
+Video for The Youtube channel HybridPanda with 500k subscribers
 
 {{< youtube cvZb0aNwdMo >}}
 
 
-This video was created for the Youtube Channel HybridPanda using Twitch clips from their Twitch Channel. 
+This video was created using clips from their Twitch Channel. 
 <!--more-->
+
 Some things to showcase here are my ability to compile usable footage, transitions, compatable music and comedic timing.
 
 
