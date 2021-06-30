@@ -14,7 +14,7 @@ A short video created for Sires Eyewear
 
  {{< youtube wolWn0i7zGQ >}}
 
-This Showcases a "Dutch Tilt" as well as timing and the production process of the Sires product.
+This Showcases the production process of the Sires product.
 
 
 
