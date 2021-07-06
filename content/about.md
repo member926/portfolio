@@ -10,4 +10,4 @@ I'm Evan Drake, a Freelance Video Editor with over two years of professional exp
 
 I enjoy being creative with my work to showcase my broad range of talents. 
 
-In my off time I like to read, Paint minatures and play guitar.
+In my off time I like to read, Paint miniatures and play guitar.
