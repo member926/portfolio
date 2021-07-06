@@ -1,6 +1,6 @@
 ---
-author: "Wamo"
-title: "Image and Video Test"
+author: "Evan Drake"
+title: "Vanhedonia Highlight's"
 image: "img/prism.jpg"
 draft: false
 date: 2020-08-14
