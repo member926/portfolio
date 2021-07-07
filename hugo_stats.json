@@ -6,9 +6,7 @@
       "aside",
       "blockquote",
       "body",
-      "br",
       "button",
-      "circle",
       "code",
       "div",
       "em",
@@ -36,7 +34,6 @@
       "nav",
       "ol",
       "p",
-      "path",
       "pre",
       "script",
       "section",
@@ -45,7 +42,6 @@
       "style",
       "sub",
       "sup",
-      "svg",
       "table",
       "tbody",
       "td",
@@ -58,7 +54,6 @@
       "ul"
     ],
     "classes": [
-      "__h_video",
       "absolute",
       "active",
       "align-middle",
@@ -198,7 +193,6 @@
       "pb-5",
       "pl-3",
       "pl-4",
-      "play",
       "previous",
       "px-2",
       "px-3",
@@ -210,7 +204,6 @@
       "py-5",
       "relative",
       "right-0",
-      "s_video_simple",
       "sm:inline-block",
       "sm:items-center",
       "sm:mt-0",
@@ -233,7 +226,6 @@
       "title",
       "tracking-tight",
       "transition-colors",
-      "twitter-tweet",
       "w-full",
       "widget-search__form"
     ],
@@ -272,11 +264,8 @@
       "tables",
       "tags",
       "thumb",
-      "twitter-simple-shortcode",
       "unordered-list",
-      "vagus-elidunt",
-      "vimeo-simple-shortcode",
-      "youtube-privacy-enhanced-shortcode"
+      "vagus-elidunt"
     ]
   }
 }
