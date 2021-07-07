@@ -1,13 +1,13 @@
 +++
 author = "Evan Drake"
-title = "Markdown Syntax Guide"
+title = "Educational Library"
 date = "2019-03-11"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags = [
     "markdown",
     "css",
-    "html",
-    "themes",
+    "coding",
+    "educational material",
 ]
 categories = [
     "themes",
