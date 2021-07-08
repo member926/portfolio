@@ -8,9 +8,12 @@ description: "Image Test"
 tags: ["gaming", "twitch"]
 archives: ["2020/08"]
 ---
-This Project showcases a variety of transitions.
+Highlight Video for the Youtube channel Vanhedonia
 
 {{< youtube lKDNQ27gvFQ >}}
+
+<!--more-->
+This Project showcases a variety of transitions.
 
 
 
