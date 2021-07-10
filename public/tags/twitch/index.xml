@@ -6,7 +6,29 @@
     <description>Recent content in Twitch on Evan Drake&#39;s Editing Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/twitch/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/twitch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Vanhedonia Highlight&#39;s</title>
+      <link>https://example.com/post/van/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/van/</guid>
+      <description>&lt;p&gt;Highlight Video for the Youtube channel Vanhedonia&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube-nocookie.com/embed/lKDNQ27gvFQ&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Strager&#39;s Educational Library</title>
+      <link>https://example.com/post/strager/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/strager/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://strager.net/videos.html&#34;&gt;Library&lt;/a&gt; consists of coding lessons and reviews from May 2020 to the present.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Hybridpanda Twitch Compilation</title>
       <link>https://example.com/post/hybrid/</link>
