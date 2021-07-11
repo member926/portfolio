@@ -9,7 +9,7 @@ tags = [
     "gaming",
 ]
 archives = ["2019/03"]
-draft = true
+draft = false
 +++
 
 Trailer for the Twitch channel Aethos
