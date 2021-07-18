@@ -10,7 +10,7 @@ author: "Hugo Authors"
 
 <div class="content">
     <p class="mb-2">To contact us, please fill out the form below.</p>
-    <form name=contact action="getform.io" method=post>
+    <form name=contact action="https://getform.io/f/79d3339a-40da-4405-b5d2-d0433ea340bb" method=post>
     <div class="mb-4">
          <input type=text placeholder="Your Name" name=name class="w-full p-4 bg-gray-200 border border-gray-200 focus:outline-none focus:bg-white focus:border-gray-500 dark:bg-warmgray-700 dark:border-warmgray-700 dark:focus:bg-warmgray-800" required>
     </div>
