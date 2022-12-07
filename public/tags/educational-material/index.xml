@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>educational material on Evan Drake&#39;s Editing Portfolio</title>
+    <link>https://evandrake.work/tags/educational-material/</link>
+    <description>Recent content in educational material on Evan Drake&#39;s Editing Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://evandrake.work/tags/educational-material/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Strager&#39;s Educational Library</title>
+      <link>https://evandrake.work/post/strager/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://evandrake.work/post/strager/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://strager.net/videos.html&#34;&gt;Library&lt;/a&gt; consists of coding lessons and reviews from May 2020 to the present.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

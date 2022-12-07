@@ -2,44 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evan Drake&#39;s Editing Portfolio</title>
-    <link>https://example.com/</link>
+    <link>https://evandrake.work/</link>
     <description>Recent content on Evan Drake&#39;s Editing Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://evandrake.work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CharaChorder One Review</title>
+      <link>https://evandrake.work/post/charachorder/</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://evandrake.work/post/charachorder/</guid>
+      <description>&lt;p&gt;CharaChorder One Review for Strager&amp;rsquo;s Youtube Channel&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube-nocookie.com/embed/IxCm86IbLok&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>DBA Episode 3</title>
+      <link>https://evandrake.work/post/dba/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://evandrake.work/post/dba/</guid>
+      <description>Doing Business As Episode 3
+  </description>
+    </item>
+    
+    <item>
+      <title>What happens when a politician makes a commercial for small business marketing?</title>
+      <link>https://evandrake.work/post/marketing/</link>
+      <pubDate>Thu, 09 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://evandrake.work/post/marketing/</guid>
+      <description>Advertisment for small business marketing
+  </description>
+    </item>
+    
     <item>
       <title>Sires Eyewear Advertisment</title>
-      <link>https://example.com/post/sireseyewear/</link>
+      <link>https://evandrake.work/post/sireseyewear/</link>
       <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/sireseyewear/</guid>
+      <guid>https://evandrake.work/post/sireseyewear/</guid>
       <description>&lt;p&gt;A short video created for Sires Eyewear&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>Image and Video Test</title>
-      <link>https://example.com/post/image-test/</link>
-      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      <title>Strager&#39;s Educational Library</title>
+      <link>https://evandrake.work/post/strager/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/image-test/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris fringilla dui eu mi iaculis, sit amet congue lacus porta. Ut nec porta ex. Morbi nec massa sodales, finibus urna et, condimentum odio. Nulla ornare est ac egestas varius. Duis faucibus sapien non risus pretium vestibulum. Ut rutrum lorem ut euismod maximus. Vestibulum metus urna, ultrices nec sapien sit amet, malesuada tincidunt quam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</description>
+      <guid>https://evandrake.work/post/strager/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://strager.net/videos.html&#34;&gt;Library&lt;/a&gt; consists of coding lessons and reviews from May 2020 to the present.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/archives/</link>
+      <link>https://evandrake.work/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/archives/</guid>
+      <guid>https://evandrake.work/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hybridpanda Twitch Compilation</title>
-      <link>https://example.com/post/hybrid/</link>
+      <link>https://evandrake.work/post/hybrid/</link>
       <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/hybrid/</guid>
+      <guid>https://evandrake.work/post/hybrid/</guid>
       <description>&lt;p&gt;Video for The Youtube channel HybridPanda with 500k subscribers&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
@@ -50,47 +83,22 @@
     </item>
     
     <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://example.com/post/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/post/markdown-syntax/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>https://example.com/post/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/post/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://example.com/post/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://example.com/post/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>https://evandrake.work/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
-      <description>Evan is a doofus.</description>
+      <guid>https://evandrake.work/about/</guid>
+      <description>I&amp;rsquo;m Evan Drake, a Freelance Video Editor with over two years of professional experience.
+I enjoy being creative with my work to showcase my broad range of talents.
+In my off time I like to read, Paint miniatures and play guitar.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://example.com/contact/</link>
+      <link>https://evandrake.work/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/contact/</guid>
+      <guid>https://evandrake.work/contact/</guid>
       <description>To contact us, please fill out the form below.
 </description>
     </item>

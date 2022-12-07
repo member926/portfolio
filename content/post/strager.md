@@ -1,7 +1,7 @@
 +++
 author = "Hugo Authors"
 title = "Strager's Educational Library"
-image = "https://panels-images.twitch.tv/panel-21065580-image-a19a325d-9809-483c-a1d5-6390036a4e65"
+image = "https://static-cdn.jtvnw.net/jtv_user_pictures/fc677afa-1935-4302-a2fb-2bf7ca003c10-profile_image-300x300.png"
 date = "2020-05-10"
 description = "A brief description of Hugo Shortcodes"
 tags = [

@@ -2,88 +2,74 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://evandrake.work/</loc>
+    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evandrake.work/post/charachorder/</loc>
+    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evandrake.work/tags/keyboard/</loc>
+    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evandrake.work/post/</loc>
+    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evandrake.work/tags/</loc>
+    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evandrake.work/tags/youtube/</loc>
+    <lastmod>2022-11-23T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evandrake.work/tags/comedy/</loc>
+    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evandrake.work/post/dba/</loc>
+    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evandrake.work/tags/tv/</loc>
+    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evandrake.work/post/marketing/</loc>
+    <lastmod>2022-06-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://evandrake.work/post/sireseyewear/</loc>
     <lastmod>2021-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/</loc>
-    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
+    <loc>https://evandrake.work/tags/educational-material/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/sireseyewear/</loc>
-    <lastmod>2021-06-06T00:00:00+00:00</lastmod>
+    <loc>https://evandrake.work/post/strager/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/emoji/</loc>
-    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
+    <loc>https://evandrake.work/tags/twitch/</loc>
+    <lastmod>2020-05-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/image-test/</loc>
-    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
-    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/themes/</loc>
-    <lastmod>2020-08-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/archives/</loc>
+    <loc>https://evandrake.work/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/gaming/</loc>
+    <loc>https://evandrake.work/tags/gaming/</loc>
     <lastmod>2019-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/post/hybrid/</loc>
+    <loc>https://evandrake.work/post/hybrid/</loc>
     <lastmod>2019-04-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/twitch/</loc>
-    <lastmod>2019-04-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/post/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/post/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/post/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://evandrake.work/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/archives/2019/03/</loc>
+    <loc>https://evandrake.work/archives/2019/03/</loc>
   </url><url>
-    <loc>https://example.com/archives/2019/04/</loc>
+    <loc>https://evandrake.work/archives/2019/04/</loc>
   </url><url>
-    <loc>https://example.com/archives/2020/08/</loc>
+    <loc>https://evandrake.work/archives/2021/06/</loc>
   </url><url>
-    <loc>https://example.com/archives/2021/06/</loc>
+    <loc>https://evandrake.work/archives/2022/06/</loc>
   </url><url>
-    <loc>https://example.com/archives/</loc>
+    <loc>https://evandrake.work/archives/2022/11/</loc>
   </url><url>
-    <loc>https://example.com/contact/</loc>
+    <loc>https://evandrake.work/archives/</loc>
+  </url><url>
+    <loc>https://evandrake.work/categories/</loc>
+  </url><url>
+    <loc>https://evandrake.work/contact/</loc>
   </url>
 </urlset>

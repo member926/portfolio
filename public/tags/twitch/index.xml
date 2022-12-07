@@ -2,17 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Twitch on Evan Drake&#39;s Editing Portfolio</title>
-    <link>https://example.com/tags/twitch/</link>
+    <link>https://evandrake.work/tags/twitch/</link>
     <description>Recent content in Twitch on Evan Drake&#39;s Editing Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Apr 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/twitch/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://evandrake.work/tags/twitch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Strager&#39;s Educational Library</title>
+      <link>https://evandrake.work/post/strager/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://evandrake.work/post/strager/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://strager.net/videos.html&#34;&gt;Library&lt;/a&gt; consists of coding lessons and reviews from May 2020 to the present.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Hybridpanda Twitch Compilation</title>
-      <link>https://example.com/post/hybrid/</link>
+      <link>https://evandrake.work/post/hybrid/</link>
       <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/hybrid/</guid>
+      <guid>https://evandrake.work/post/hybrid/</guid>
       <description>&lt;p&gt;Video for The Youtube channel HybridPanda with 500k subscribers&lt;/p&gt;
 
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
