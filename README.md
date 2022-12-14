@@ -10,8 +10,14 @@
 ## How to add your changes permanently
 
 1. Navigate to project directory in the terminal
-1. `git add -A` 
-1. `git commit -m "write your own message here"` 
-1. `git push` 
+1. `git add -A`
+1. `git commit -m "write your own message here"`
+1. `git push`
 
 Netlify should automatically pick up the changes and start the deployment process.
+
+## How to add an image to a post
+
+1. Put the image in your `static/img` directory
+1. Place the image in your post with: `![self portrait](/img/metsfans.jpg)`.
+   - **Make sure you leave off the `static` part of the path!**

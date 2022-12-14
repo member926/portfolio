@@ -50,11 +50,10 @@ darkmode = "light"
     description = "130"
 
   [params.widgets]
-    archives = true
-    categories = true
-    tags = true
     recentposts = true
-    search = true
+    tags = true
+    categories = true
+    search = false
 
 # If you're using Yandex.Metrica, you can enable this feature.
 #[params.analytics.yandexmetrica]

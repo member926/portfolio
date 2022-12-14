@@ -18,7 +18,6 @@
       "iframe",
       "img",
       "input",
-      "label",
       "li",
       "link",
       "meta",
@@ -147,7 +146,6 @@
       "mt-3",
       "mt-4",
       "mt-5",
-      "mx-4",
       "mx-6",
       "mx-auto",
       "navmenu",
@@ -170,7 +168,6 @@
       "previous",
       "px-2",
       "px-3",
-      "px-4",
       "px-5",
       "py-1",
       "py-2",
@@ -192,7 +189,6 @@
       "text-gray-400",
       "text-gray-600",
       "text-gray-700",
-      "text-gray-800",
       "text-gray-900",
       "text-lg",
       "text-sm",
@@ -201,8 +197,7 @@
       "title",
       "tracking-tight",
       "transition-colors",
-      "w-full",
-      "widget-search__form"
+      "w-full"
     ],
     "ids": [
       "content",
